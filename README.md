@@ -37,7 +37,7 @@ Welcome to the **Two-Player UNO Game**, a fun and interactive Python-based imple
 ## 🚀 Getting Started
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/two-player-uno.git
+git clone https://github.com/krishnasharma180/Two-Player-UNO.git
 cd two-player-uno
 ```
 
@@ -55,10 +55,6 @@ python uno_game.py
 
 ---
 
-## 📸 Screenshots
-_Showcase screenshots of the gameplay here, highlighting the colorful console output and vibrant interface._
-
----
 
 ## 🚀 Future Enhancements
 - Implement AI for single-player mode.
@@ -74,11 +70,6 @@ _Showcase screenshots of the gameplay here, highlighting the colorful console ou
 
 ## 🙌 Credits
 Developed by: **Krishna**
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
