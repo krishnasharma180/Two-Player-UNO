@@ -55,14 +55,6 @@ python uno_game.py
 
 ---
 
-
-## 🚀 Future Enhancements
-- Implement AI for single-player mode.
-- Add support for more than two players.
-- Develop a graphical user interface (GUI).
-
----
-
 ## 🛠️ Built With
 - **Python**: The core language used for this project.
 
